@@ -1,8 +1,9 @@
 fileFormatVersion: 2
 guid: bf9be07af37802d45ab1d805925ec862
-timeCreated: 1432654808
-licenseType: Store
-NativeFormatImporter:
+labels:
+- Terrain
+PrefabImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 

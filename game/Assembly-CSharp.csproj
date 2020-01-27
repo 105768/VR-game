@@ -516,6 +516,7 @@
     <None Include="Assets\Aura\Shaders\ComputeShaders\ComputeMaximumDepthComputeShader.compute" />
     <None Include="Assets\Aura\Shaders\Includes\CommonFunctions.cginc" />
     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Shaders\Hands_01.shader" />
+    <None Include="Assets\QS\QS-Textures-Grass-v1\Documentation\Readme.txt" />
     <None Include="Assets\Aura\Shaders\Shaders\StorePointLightShadowMap.shader" />
     <None Include="Assets\Oculus\Avatar\Resources\Materials\Expressive\Avatar_Mobile_SingleComponentExpressive.shader" />
     <None Include="Assets\Oculus\SampleFramework\Core\DebugUI\Fonts\Montserrat\OFL.txt" />
@@ -544,6 +545,9 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>C:/Users/105768/Desktop/game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>C:/Users/105768/Desktop/game/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/105768/Desktop/game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -558,6 +562,9 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>C:/Users/105768/Desktop/game/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>C:/Users/105768/Desktop/game/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/105768/Desktop/game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
